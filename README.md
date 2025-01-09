@@ -1,1 +1,5 @@
 # instalike-front
+
+## Tecnologias
+
+## Deploy
